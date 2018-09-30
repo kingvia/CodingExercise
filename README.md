@@ -3,7 +3,9 @@ Coding exercise for irexchange.
 
 # Usage
 Java com.irexchange.CodingExercise n k
+
 n = Number of children stand around a circle
+
 k = Then starting with the first child, they count out from 1 until k. The k'th child is now out and leaves the circle.
 
 # Design Point
