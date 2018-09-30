@@ -2,7 +2,7 @@
 Coding exercise for irexchange.
 
 # Usage
-Java com.irexchange.CodingExercise n k
+java -cp CodingExercise-0.0.1-SNAPSHOT.jar com.irexchange.CodingExercise n k
 
 n = Number of children stand around a circle
 

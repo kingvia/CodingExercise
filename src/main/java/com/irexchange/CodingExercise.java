@@ -43,7 +43,7 @@ public class CodingExercise {
 	 * Print out the usage info
 	 */
 	public static void printUsage() {
-		System.out.println("Java com.irexchange.CodingExercise n k");
+		System.out.println("java -cp CodingExercise-0.0.1-SNAPSHOT.jar com.irexchange.CodingExercise n k");
 		System.out.println("n = Number of children stand around a circle");
 		System.out.println(
 				"k = Then starting with the first child, they count out from 1 until k. The k'th child is now out and leaves the circle.");
